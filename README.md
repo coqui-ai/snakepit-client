@@ -1,6 +1,6 @@
-# Snakepit Client
+# :snake: Snakepit Client
 
-Command-line client for the [snakepit machine learning job scheduler](https://github.com/mozilla/snakepit)
+Command-line client for the [snakepit machine learning job scheduler](https://github.com/coqui-ai/snakepit)
 
 ## Installation
 
@@ -15,7 +15,7 @@ This is a preliminary installation guide, as the client is not mature enough for
 
 Follow these steps to install the client:
 ```
-$ git clone https://github.com/mozilla/snakepit-client.git
+$ git clone https://github.com/coqui-ai/snakepit-client.git
 [...]
 $ cd snakepit
 snakepit$ npm install
@@ -263,6 +263,8 @@ Within your `.compute` script or a direct command you can use the following envi
 
 ## Help
 
-1. [**IRC**](https://wiki.mozilla.org/IRC) - You can contact us on the `#machinelearning` channel on [Mozilla IRC](https://wiki.mozilla.org/IRC); people there can try to answer/help
+1. [**Github Discussions**](https://github.com/coqui-ai/snakepit-client/discussions) - find and join open-ended discussions related to :snake: snakepit
 
-2. [**Issues**](https://github.com/mozilla/snakepit-client/issues) - If you think you ran into a serious problem, feel free to open an issue in our repo.
+2. [**Matrix**](https://matrix.to/#/+coqui:matrix.org) - the :frog: Matrix channel where you can find and chat with folks about :snake: snakepit and get some help, share ideas:)
+
+3. [**Issues**](https://github.com/coqui-ai/snakepit-client/issues) - If you think you ran into a serious problem, feel free to open an issue in our repo.
