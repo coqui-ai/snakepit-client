@@ -261,7 +261,7 @@ Within your `.compute` script or a direct command you can use the following envi
 - Problems with binaries. Work-around: Commit/Push binaries to your remote/origin repository before scheduling a job.
 - File diffs are only done on tracked files. Work-around: `git add <filename>` before scheduling a job (and removing it afterwards if not to be pushed to repo).
 
-## Help
+## Help + Community
 
 1. [**Github Discussions**](https://github.com/coqui-ai/snakepit-client/discussions) - find and join open-ended community discussions related to :snake: snakepit
 
