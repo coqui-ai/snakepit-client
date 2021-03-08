@@ -263,8 +263,8 @@ Within your `.compute` script or a direct command you can use the following envi
 
 ## Help
 
-1. [**Github Discussions**](https://github.com/coqui-ai/snakepit-client/discussions) - find and join open-ended discussions related to :snake: snakepit
+1. [**Github Discussions**](https://github.com/coqui-ai/snakepit-client/discussions) - find and join open-ended community discussions related to :snake: snakepit
 
-2. [**Matrix**](https://matrix.to/#/+coqui:matrix.org) - the :frog: Matrix channel where you can find and chat with folks about :snake: snakepit and get some help, share ideas:)
+2. [**Matrix Chat**](https://matrix.to/#/+coqui:matrix.org) - the :frog: Matrix channel where you can chat with folks about :snake: snakepit, get help, share ideas :)
 
-3. [**Issues**](https://github.com/coqui-ai/snakepit-client/issues) - If you think you ran into a serious problem, feel free to open an issue in our repo.
+3. [**Github Issues**](https://github.com/coqui-ai/snakepit-client/issues) - If you ran into a specific error/problem, feel free to open an issue in the repo.
